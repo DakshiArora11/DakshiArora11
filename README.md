@@ -1,18 +1,20 @@
-# Dakshi Arora | Full-Stack Developer & AI Innovator 🚀
+## Dakshi Arora🚀
 
-## 👋 About Me
+### About Me
+As a third-year B.Tech Computer Science student specializing in Artificial Intelligence, I am driven by an unwavering passion for technological innovation. My academic journey is fueled by a commitment to transforming complex challenges into elegant, impactful solutions. I am constantly eager to expand my knowledge, apply cutting-edge technologies, and collaborate on projects that push the boundaries of what's possible in computer science and AI.
+My approach blends theoretical understanding with practical application, seeking to bridge academic insights with real-world problem-solving. I am dedicated to continuous learning, actively pursuing opportunities that allow me to grow, contribute meaningfully, and make a tangible difference through technology.
 
-Passionate technologist driven by a mission to solve real-world challenges through innovative AI-driven solutions and cutting-edge software development. I specialize in creating scalable, intelligent systems that bridge technological potential with practical applications.
 
 ## 🛠 Technical Expertise
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### AI & Machine Learning
 - Computer Vision (OCR, Image Processing)
@@ -22,22 +24,14 @@ Passionate technologist driven by a mission to solve real-world challenges throu
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 🏆 Flagship Projects
 
 ### 1. CarSight 🚗
-**AI-Powered Number Plate Recognition System**
-- Leveraged Google Vertex AI for advanced image recognition
-- Developed robust automotive identification solution
-- Technologies: Python, Machine Learning, Google Cloud
+**Number Plate Recognition System**
+- Developed robust automotive identification solution which achieved 98%+ accuracy.
+- Technologies: Python, Machine Learning, Google Cloud, HTML, CSS, JavaScript
 
 ### 2. PolicyLens 📄
 **Intelligent Insurance Policy Extraction Tool**
