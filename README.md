@@ -14,14 +14,6 @@ Passionate Computer Science undergraduate committed to leveraging technology and
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### AI & Machine Learning
-- Computer Vision
-- Text & Image Processing
-- Predictive Analytics
-- Neural Network Architectures
-- Object Detection
-- OCR Technologies
-
 #### Cloud & DevOps Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -29,6 +21,15 @@ Passionate Computer Science undergraduate committed to leveraging technology and
 #### Testing
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
+
+#### AI & Machine Learning
+- Computer Vision
+- Text & Image Processing
+- Predictive Analytics
+- Neural Network Architectures
+- Object Detection
+- OCR Technologies
+  
 ### 🚀 Highlighted Projects
 
 #### PolicyLens
