@@ -1,38 +1,30 @@
-# Innovative Full-Stack AI Developer | Building Intelligent Solutions
+## Dakshi Arora
 
-## 👋 About Me
+### About Me
 
-Passionate Computer Science undergraduate driven by a mission to transform complex challenges into innovative technological solutions. Specializing in AI and full-stack development, I create intelligent systems with a strong focus on end-to-end deployment and scalable architecture. My approach combines technical expertise with creative problem-solving to deliver impactful, user-centric technologies that solve real-world problems.
+Passionate Computer Science undergraduate committed to leveraging technology and simplify complex processes, save time, and reduce operational costs. My mission is to create intelligent solutions that transform challenging tasks into efficient, streamlined experiences. By combining cutting-edge AI and software development, I aim to collaborate that not only solve problems but fundamentally reimagine how work gets done – making technology a powerful tool for optimization and human empowerment.
 
 ## 🛠 Technical Skills
 
 ### Programming Languages & Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### AI & Machine Learning
 - Computer Vision
-- Image Processing
+- Text & Image Processing
 - Predictive Analytics
 - Neural Network Architectures
 - Object Detection
 - OCR Technologies
 
-### DevOps
+### Cloud & DevOps Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- Containerization
-- CI/CD Pipelines
-- System Optimization
-
-### Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-- Cloud Deployment
-- Scalable Infrastructure
-- Cloud-Native Application Development
 
 ### Testing
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -40,16 +32,17 @@ Passionate Computer Science undergraduate driven by a mission to transform compl
 ## 🚀 Highlighted Projects
 
 ### PolicyLens
-**AI-Powered Document Extraction Tool**
+**Automated Policy Document Extraction Tool**
 - [Project Link](https://ai.vehiclecare.app/policylens2)
-- Developed an intelligent system to extract insurance policy details
+- Developed an intelligent system to extract all the relevant insurance policy details aiming to smoothen the claim intimation process
 - Reduced manual data extraction from 5-7 minutes to under 15 seconds
 - 99%+ accuracy in information extraction
-- Deployed in VehicleCare mobile app, used by 1000+ customers
+- Deployed in VehicleCare mobile app, used by over 1000+ customers
 
 ### CarSight
 **Automated License Plate Recognition System**
 - [Project Link](https://ai.vehiclecare.app/)
+- Developed end to end appliaction
 - Achieved 98%+ accuracy in vehicle identification
 - Utilized advanced machine learning techniques (YOLOv8)
 - Integrated with Google Cloud for seamless processing
@@ -65,12 +58,12 @@ Passionate Computer Science undergraduate driven by a mission to transform compl
 
 ### Publications
 - "FitTrack: Posture Correction Techniques" (Under Review) - Journal of Innovation and Entrepreneurship
-- Ongoing Research: Computational Complexity in Word-Guessing Algorithms
+- Ongoing Research: The Jotto Problem-Computational Complexity in Word-Guessing Algorithms
 
 ## 🌟 Professional Experience
 
 **AI Intern | VehicleCare**
-- Independently developed and deployed full-stack AI solutions
+- Developed and deployed full-stack AI solutions
 - Implemented complete front-end and back-end systems from scratch
 - Deployed solutions using Docker and Google Cloud Platform
 - Optimized backend workflows with scalable cloud infrastructure
@@ -81,10 +74,10 @@ Passionate Computer Science undergraduate driven by a mission to transform compl
 
 - Advisor & Founding Member – Student Alumni Relations Cell, BMU
 - Student Head – Library Committee, SOET
-- Senior Representative & Ex-Content Head – ACM, BMU (2023-2024)
+- Senior Representative & Ex-Content Head – ACM, BMU 
 - Content Head – HackBMU 6.0
 - Marketing Head – Smart India Hackathon
-- Content Head – ACM, BMU
+- Content Head – SARC, BMU
 
 ## 📩 Connect With Me
 
