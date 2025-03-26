@@ -1,37 +1,47 @@
-# Dakshi Arora | Full-Stack Developer & AI Innovator 🚀
+# Innovative Full-Stack AI Developer | Building Intelligent Solutions
 
 ## 👋 About Me
 
-Passionate Computer Science undergraduate driven by a mission to transform complex challenges into innovative technological solutions. Specializing in AI, machine learning, and full-stack development, I create intelligent systems that push the boundaries of what's possible. My work combines technical expertise with creative problem-solving to deliver impactful, user-centric technologies.
+Passionate Computer Science undergraduate driven by a mission to transform complex challenges into innovative technological solutions. Specializing in AI and full-stack development, I create intelligent systems with a strong focus on end-to-end deployment and scalable architecture. My approach combines technical expertise with creative problem-solving to deliver impactful, user-centric technologies that solve real-world problems.
 
 ## 🛠 Technical Skills
 
-### Programming Languages
+### Programming Languages & Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Technologies & Frameworks
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-4B0082?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-### Key Expertise
+### AI & Machine Learning
 - Computer Vision
 - Image Processing
-- AI & Machine Learning
-- Web Development
-- Database Management
-- Selenium Testing
+- Predictive Analytics
+- Neural Network Architectures
+- Object Detection
+- OCR Technologies
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Containerization
+- CI/CD Pipelines
+- System Optimization
+
+### Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+- Cloud Deployment
+- Scalable Infrastructure
+- Cloud-Native Application Development
+
+### Testing
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ## 🚀 Highlighted Projects
 
 ### PolicyLens
 **AI-Powered Document Extraction Tool**
+- [Project Link](https://ai.vehiclecare.app/policylens2)
 - Developed an intelligent system to extract insurance policy details
 - Reduced manual data extraction from 5-7 minutes to under 15 seconds
 - 99%+ accuracy in information extraction
@@ -39,12 +49,14 @@ Passionate Computer Science undergraduate driven by a mission to transform compl
 
 ### CarSight
 **Automated License Plate Recognition System**
+- [Project Link](https://ai.vehiclecare.app/)
 - Achieved 98%+ accuracy in vehicle identification
 - Utilized advanced machine learning techniques (YOLOv8)
 - Integrated with Google Cloud for seamless processing
 
 ### The Jotto Problem
 **Algorithmic Word-Guessing Optimization Research**
+- [Project Link](https://jottogame.vercel.app/)
 - Explored computational strategies using graph theory
 - Developed innovative approaches for pattern recognition
 - Created interactive web-based simulation
@@ -52,22 +64,27 @@ Passionate Computer Science undergraduate driven by a mission to transform compl
 ## 📚 Research Contributions
 
 ### Publications
-- "FitTrack: Posture Correction Techniques" - Journal of Innovation and Entrepreneurship
+- "FitTrack: Posture Correction Techniques" (Under Review) - Journal of Innovation and Entrepreneurship
 - Ongoing Research: Computational Complexity in Word-Guessing Algorithms
 
 ## 🌟 Professional Experience
 
 **AI Intern | VehicleCare**
-- Developed AI-driven solutions with cutting-edge accuracy
-- Optimized backend workflows using Docker and Google Cloud
-- Created marketing content with 57K+ views
+- Independently developed and deployed full-stack AI solutions
+- Implemented complete front-end and back-end systems from scratch
+- Deployed solutions using Docker and Google Cloud Platform
+- Optimized backend workflows with scalable cloud infrastructure
+- Developed AI-driven solutions with 98%+ accuracy
+- Created marketing content with 57K+ views showcasing AI capabilities
 
 ## 🤝 Leadership & Involvement
 
 - Advisor & Founding Member – Student Alumni Relations Cell, BMU
 - Student Head – Library Committee, SOET
-- Senior Representative & Content Head – ACM, BMU
+- Senior Representative & Ex-Content Head – ACM, BMU (2023-2024)
+- Content Head – HackBMU 6.0
 - Marketing Head – Smart India Hackathon
+- Content Head – ACM, BMU
 
 ## 📩 Connect With Me
 
