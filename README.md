@@ -80,6 +80,10 @@ Passionate Computer Science undergraduate committed to leveraging technology and
 - Marketing Head – Smart India Hackathon
 - Content Head – SARC, BMU
 
+### 🌿 Hobbies
+  - Yoga
+  - Reading about Life and Pyschology
+    
 ### 📩 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshi-arora)
