@@ -87,7 +87,6 @@ Passionate Computer Science undergraduate committed to leveraging technology and
 ### 📩 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshi-arora)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshiarora)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshi.arora.22cse@bmu.edu.in)
 
 *Innovating at the intersection of technology and human potential* 🌐
